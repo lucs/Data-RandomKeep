@@ -1,6 +1,5 @@
 use Test;
-use Data::RandomKeep;
-
-pass "replace me";
+use-ok 'Data::RandomKeep';
 
 done-testing;
+

@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/lucs/Data-RandomKeep/actions/workflows/test.yml/badge.svg)](https://github.com/lucs/Data-RandomKeep/actions)
+
 NAME
 ====
 
